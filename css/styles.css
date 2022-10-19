@@ -73,6 +73,7 @@ ul {
   justify-content: center;
   flex-direction: column;
   margin-bottom: 30px;
+  border-radius: 4%;
   background-color: var(--team-background-color);
 }
 
@@ -339,6 +340,7 @@ ul {
   border-radius: 50%;
   color: #afb1b8;
   background-color: #f5f4fa;
+  background: rgba(255, 255, 255, 0.1);
 }
 
 .team-social-link:hover,
@@ -393,6 +395,7 @@ ul {
   color: #afb1b8;
   background-color: #fff;
   padding: 16px 32px;
+  border-radius: 4%;
 }
 
 .client-link:hover,
